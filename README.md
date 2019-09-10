@@ -6,4 +6,4 @@
 Для разметки неупорядоченных списков можно использовать или `*`, или `-`, или `+`:
 - Hello.
 - How are you?.
-![kartinka](http://pp.userapi.com/c636028/v636028304/a226/FUB6pXcx9PU.jpg)
+![kartinka](https://resize-parismatch.lanmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/people/cristiano-ronaldo-le-tendre-hommage-a-son-pere-1362170/22657973-1-fre-FR/Cristiano-Ronaldo-le-tendre-hommage-a-son-pere.jpg)
