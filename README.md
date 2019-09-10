@@ -6,4 +6,4 @@
 Для разметки неупорядоченных списков можно использовать или `*`, или `-`, или `+`:
 - Hello.
 - How are you?.
-[![Alt text](//placehold.it/500x350)](http://pp.userapi.com/c636028/v636028304/a226/FUB6pXcx9PU.jpg)
+[![Aleksander Shec](//placehold.it/500x350)](http://pp.userapi.com/c636028/v636028304/a226/FUB6pXcx9PU.jpg)
