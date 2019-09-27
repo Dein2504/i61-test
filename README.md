@@ -1,8 +1,3 @@
-# **_Hello_**
-## ~~How are you?~~
-### H3
-#### H4
-##### H5
-Cristiano Ronaldo #7
-![kartinka](https://resize-parismatch.lanmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/people/cristiano-ronaldo-le-tendre-hommage-a-son-pere-1362170/22657973-1-fre-FR/Cristiano-Ronaldo-le-tendre-hommage-a-son-pere.jpg)
-![videos](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
+# Все началось с простого приложения SimDuck #
+Джо работает на компанию, выпустившую чрезвычайно успешеный имитатор утиного пруда. В этой игре представлен пруд, в котором плавают и крякают утки разных видов. Проектировщики системы воспользовались стандартным приемом ООП и определили суперкласс Duck, на основе которого объявляются типы конкретных видов уток.
+![kartinka](file:///C:/Users/USER/Desktop/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.jpg)
